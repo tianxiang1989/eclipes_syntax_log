@@ -3,13 +3,13 @@
 ; This file is required for EditPlus to run correctly.
 ; #DELIMITER=,(){}[]-+*%/="'~!&|<>?:;.=
 
-#DELIMITER=()[]:./.,
+#DELIMITER=():./.,
 #QUOTATION1='
 #QUOTATION2="
 #COMMENTON=(
 #COMMENTOFF=)
-#COMMENTON2=[
-#COMMENTOFF2=]
+#COMMENTON2=
+#COMMENTOFF2=
 #PREFIX1=-
 #PREFIX2=
 #PREFIX3=
